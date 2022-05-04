@@ -1,0 +1,3 @@
+[submodule "Packages/GeoJsonCityBuilder"]
+	path = Packages/GeoJsonCityBuilder
+	url = https://github.com/ElmarJ/GeoJsonCityBuilder.git
