@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Buildings
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 8d02361b1a0b9d94b9a501fa084f1364, type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: geoJsonFile
+    value: 
+    objectReference: {fileID: 4900000, guid: 37f3e7995c323cc42b472351ad64fe71, type: 3}
+  - target: {fileID: 0}
+    propertyPath: worldPosition
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: featureTypeFilter
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: prefab
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: timeStartYearField
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: timeEndYearField
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: heightMin
+    value: 10
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: heightMax
+    value: 12
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: topMaterial
+    value: 
+    objectReference: {fileID: 2100000, guid: 6b8e6a283700ff946a2c332574f61804, type: 2}
+  - target: {fileID: 0}
+    propertyPath: sideMaterials.Array.size
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: sideMaterials.Array.data[0]
+    value: 
+    objectReference: {fileID: 2100000, guid: 377983f4bf5b89744bd0ed9e040a11b9, type: 2}
+  - target: {fileID: 0}
+    propertyPath: sideMaterials.Array.data[1]
+    value: 
+    objectReference: {fileID: 2100000, guid: bd7d4e4bb9e59584b8ab2b9344686c20, type: 2}
+  - target: {fileID: 0}
+    propertyPath: sideMaterials.Array.data[2]
+    value: 
+    objectReference: {fileID: 2100000, guid: 919401c514466c34284c1bb98f86a0bf, type: 2}
+  - target: {fileID: 0}
+    propertyPath: sideMaterials.Array.data[3]
+    value: 
+    objectReference: {fileID: 2100000, guid: ee8627f0fdc3a784684cb7cb309dee7b, type: 2}
+  - target: {fileID: 0}
+    propertyPath: sideMaterials.Array.data[4]
+    value: 
+    objectReference: {fileID: 2100000, guid: 80aa5fd7707a2864a8bc0c50edb607aa, type: 2}
+  - target: {fileID: 0}
+    propertyPath: sideMaterials.Array.data[5]
+    value: 
+    objectReference: {fileID: 2100000, guid: e7303adc571e8144eb303f20d121fed4, type: 2}
+  - target: {fileID: 0}
+    propertyPath: bottomMaterial
+    value: 
+    objectReference: {fileID: 2100000, guid: 01ea917047e92b3418d99242d750c871, type: 2}
+  - target: {fileID: 0}
+    propertyPath: sideUvUnwrapSettings.m_UseWorldSpace
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: sideUvUnwrapSettings.m_FlipU
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: sideUvUnwrapSettings.m_FlipV
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: sideUvUnwrapSettings.m_SwapUV
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: sideUvUnwrapSettings.m_Fill
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: sideUvUnwrapSettings.m_Scale.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: sideUvUnwrapSettings.m_Scale.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: sideUvUnwrapSettings.m_Offset.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: sideUvUnwrapSettings.m_Offset.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: sideUvUnwrapSettings.m_Rotation
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: sideUvUnwrapSettings.m_Anchor
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: pointedRoofTops
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: raiseFacades
+    value: 0
+    objectReference: {fileID: 0}
+  m_ExcludedProperties: []
